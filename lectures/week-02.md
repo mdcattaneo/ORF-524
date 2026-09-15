@@ -3,7 +3,7 @@
 ## Week 2: Models, identification, likelihood, and sufficiency
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
+**Last updated:** September 15, 2026  
 **Meeting:** Wednesday, September 9, 2026
 
 <!-- Legacy sources: 11 ORF 524/lectures/ORF524-Fall2025-Lecture-Week-02.tex and
@@ -518,18 +518,37 @@ This conclusion establishes sufficiency, not completeness. [Week 3](week-03.md#3
 
 ### 5.4 Minimal sufficiency
 
-A sufficient statistic $T$ is **minimal sufficient** if, for every sufficient statistic $S$, there is a measurable function $r$ such that $T=r(S)$ almost surely. Thus every sufficient statistic retains enough information to reconstruct $T$.
+A sufficient statistic $T$ is **minimal sufficient** if, for every sufficient statistic $S$, there is a measurable function $r$ such that $T=r(S)$ almost surely under every parameter value. The same function $r$ must work for the whole model. Thus every sufficient statistic retains enough information to reconstruct $T$.
 
-Under standard dominated model conditions, the likelihood ratio criterion says that
+**Clarification (September 15, 2026):** The likelihood ratio criterion compares complete likelihoods over the entire parameter space, including their zero sets. Restricting the comparison to parameter values where both densities are positive can lose support information.
+
+**Likelihood proportionality criterion.** Suppose the joint laws have densities $f_X(x;\theta)$ with respect to a common $\sigma$-finite measure. For the usual density versions in the models considered here, a convenient way to establish minimal sufficiency is to verify
 
 $$
-T(x)=T(y)
-\quad\Longleftrightarrow\quad
-\frac{f_X(x;\theta)}{f_X(y;\theta)}
-\text{ is independent of }\theta,
+\begin{aligned}
+T(x)=T(y)\quad\Longleftrightarrow\quad
+&\exists\mkern3mu c(x,y)\in(0,\infty)\text{ such that}\\
+&f_X(x;\theta)=c(x,y)f_X(y;\theta)
+\quad\text{for every }\theta\in\Theta.
+\end{aligned}
 $$
 
-for sample points where the ratio is meaningful.
+The comparison concerns possible sample points, with the usual almost sure qualifications: a common set having probability zero under every model distribution may be disregarded. Once sufficiency of $T$ has been established, it is enough to prove the right-to-left implication; this is the form in Shao (2003), Theorem 2.3(iii), p. 108, and Keener (2010), Theorem 3.11, p. 47. Keener's footnote 4 explicitly requires one proportionality constant to work for all parameter values.
+
+For fixed $x,y$, the factor $c(x,y)$ must be one finite positive constant that works for all $\theta$. If one density is positive and the other is zero for some $\theta$, proportionality fails for that pair. If both densities are zero, the equality is satisfied at that parameter value without requiring division. The criterion therefore requires both matching positivity sets and a constant ratio wherever the densities are positive.
+
+**Proof map and sketch.** Compare $T$ with another sufficient statistic $S$. Factorization gives $f_X(x;\theta)=g(S(x),\theta)h(x)$. On pairs with $S(x)=S(y)$ and $h(x),h(y)>0$,
+
+$$
+f_X(x;\theta)=f_X(y;\theta)\frac{h(x)}{h(y)}
+\qquad\text{for every }\theta.
+$$
+
+Thus factorization supplies the proportionality factor, and the criterion gives $T(x)=T(y)$. With the usual measurability qualifications, this yields $T=r(S)$ almost surely and hence minimal sufficiency. The excluded set where $h=0$ has probability zero under every model distribution. This does not require a common positive support for the densities: $g(S(x),\theta)$ may vanish, but for a pair with the same value of $S$ it vanishes for both sample points simultaneously.
+
+**Scope of the sketch.** Factorization initially gives an almost everywhere equality for each parameter value. Passing to a simultaneous pointwise comparison and obtaining a measurable function $r$ require additional care; Keener (2010), p. 47, explicitly presents only the basic proof idea. Use the usual density versions for the models displayed here. Arbitrary changes to densities on parameter specific null sets cannot be used to apply the criterion.
+
+**Boundary example.** For one observation from $\mathsf{Uniform}(0,\theta)$, compare $x=1$ and $y=2$. Their likelihood ratio is one for every $\theta>2$, but at $\theta=3/2$ the likelihood of $x$ is positive and that of $y$ is zero. Their complete likelihoods are therefore not proportional. Retaining the support indicator is essential.
 
 > [!TIP]
 > **Optional — AI interaction 4 — Audit a sufficiency claim**
