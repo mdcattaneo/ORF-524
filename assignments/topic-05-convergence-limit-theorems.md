@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 5: Convergence and Limit Theorems
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 5: Convergence and limit theorems](../lectures/week-05.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 5: Convergence and limit theorems](../lectures/week-05.md)  
+**Solutions:** [Module 5 solutions](solutions/topic-05-solutions.md)
 
 ## Purpose
 

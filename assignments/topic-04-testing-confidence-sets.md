@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 4: Testing and Confidence Sets
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 4: Hypothesis testing and confidence sets](../lectures/week-04.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 4: Hypothesis testing and confidence sets](../lectures/week-04.md)  
+**Solutions:** [Module 4 solutions](solutions/topic-04-solutions.md)
 
 ## Purpose
 

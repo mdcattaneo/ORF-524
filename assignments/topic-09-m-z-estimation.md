@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 9: M- and Z-Estimation
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 9: M- and Z-estimation](../lectures/week-09.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 9: M- and Z-estimation](../lectures/week-09.md)  
+**Solutions:** [Module 9 solutions](solutions/topic-09-solutions.md)
 
 ## Purpose
 

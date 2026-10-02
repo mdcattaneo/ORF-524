@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 6: Delta Method and Asymptotic Inference
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 6: Delta method and asymptotic inference](../lectures/week-06.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 6: Delta method and asymptotic inference](../lectures/week-06.md)  
+**Solutions:** [Module 6 solutions](solutions/topic-06-solutions.md)
 
 ## Purpose
 

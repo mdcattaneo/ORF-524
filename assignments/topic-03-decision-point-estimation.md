@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 3: Decision Theory and Point Estimation
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 3: Decision theory and point estimation](../lectures/week-03.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 3: Decision theory and point estimation](../lectures/week-03.md)  
+**Solutions:** [Module 3 solutions](solutions/topic-03-solutions.md)
 
 ## Purpose
 

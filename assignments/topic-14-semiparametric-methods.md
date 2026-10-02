@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 14: Semiparametric Methods
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 14: Semiparametric methods](../lectures/week-14.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 14: Semiparametric methods](../lectures/week-14.md)  
+**Solutions:** [Module 14 solutions](solutions/topic-14-solutions.md)
 
 ## Purpose
 

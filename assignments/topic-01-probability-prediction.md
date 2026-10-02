@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 1: Probability, Loss, and Prediction
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 1: Statistical questions and expectations](../lectures/week-01.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 1: Statistical questions and expectations](../lectures/week-01.md)  
+**Solutions:** [Module 1 solutions](solutions/topic-01-solutions.md)
 
 ## Purpose
 

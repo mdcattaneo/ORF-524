@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 11: Kernel Based Nonparametric Methods
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 11: Kernel based nonparametric methods](../lectures/week-11.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 11: Kernel based nonparametric methods](../lectures/week-11.md)  
+**Solutions:** [Module 11 solutions](solutions/topic-11-solutions.md)
 
 ## Purpose
 

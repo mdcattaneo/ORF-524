@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 2: Models, Likelihood, and Sufficiency
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 2: Models, identification, likelihood, and sufficiency](../lectures/week-02.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 2: Models, identification, likelihood, and sufficiency](../lectures/week-02.md)  
+**Solutions:** [Module 2 solutions](solutions/topic-02-solutions.md)
 
 ## Purpose
 

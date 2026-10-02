@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 12: Series Based Nonparametric Methods
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 12: Series based nonparametric methods](../lectures/week-12.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 12: Series based nonparametric methods](../lectures/week-12.md)  
+**Solutions:** [Module 12 solutions](solutions/topic-12-solutions.md)
 
 ## Purpose
 

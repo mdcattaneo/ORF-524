@@ -1,8 +1,9 @@
 # ORF 524 Practice Module 10: Regression and Two Step Estimation
 
 **Status:** Ready for Fall 2026  
-**Last updated:** August 30, 2026  
-**Primary chapter:** [Week 10: Regression applications and two step estimation](../lectures/week-10.md)
+**Last updated:** October 2, 2026  
+**Primary chapter:** [Week 10: Regression applications and two step estimation](../lectures/week-10.md)  
+**Solutions:** [Module 10 solutions](solutions/topic-10-solutions.md)
 
 ## Purpose
 

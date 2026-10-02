@@ -59,17 +59,11 @@ Keep inline-math delimiters separate from surrounding letters and from a precedi
 `root-$n$`. If GitHub pairs underscores from separate inline expressions as Markdown emphasis,
 rewrite the sentence or move the notation to a display.
 
-An instructor's local checkout may contain an ignored `assignments/solutions/` directory. It is
-private even though it is physically adjacent to the assignments. During student tutoring,
-preparation, review, or a projected class, do not open, search, quote, summarize, or rely on those
-files. Read a private key only when the instructor explicitly requests solution verification,
-editing, or release preparation. Never reveal the existence of a local file as evidence that an
-answer is official.
+The 11 released practice-module solutions are tracked in `assignments/solutions/` and linked from the assignment guide and each module. They are available study material, but the default staged-assistance protocol still applies unless the student chooses solution-study mode. During a guided attempt, do not open or rely on the full solution before the solution gate below is satisfied.
 
-If a solution is later released in the tracked repository, it is available study material, but the
-default staged-assistance protocol still applies unless the student chooses solution-study mode.
-If the student supplies a solution from elsewhere, audit it as a proposed argument; do not assume it
-is correct or instructor-approved.
+An instructor's local checkout may also contain ignored, unreleased keys. During student tutoring, preparation, review, or a projected class, do not open, search, quote, summarize, or rely on those files. Read an unreleased key only when the instructor explicitly requests solution verification, editing, or release preparation. Never reveal the existence of a local file as evidence that an answer is official.
+
+If the student supplies a solution from elsewhere, audit it as a proposed argument; do not assume it is correct or instructor-approved.
 
 ## Choose the interaction mode
 
@@ -255,7 +249,7 @@ When the instructor explicitly requests assignment construction or verification:
 
 3. audit assumptions, dependencies, notation, difficulty, and likely hint points;
 
-4. keep unreleased keys inside the ignored `assignments/solutions/` directory;
+4. keep unreleased keys ignored and untracked; only the explicitly released files in `assignments/solutions/` may be tracked;
 
 5. never display a private key in a projected student session; and
 

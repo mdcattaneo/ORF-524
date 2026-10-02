@@ -1,7 +1,7 @@
 # ORF 524 Practice Assignments
 
 **Status:** Complete practice sequence  
-**Last updated:** August 30, 2026
+**Last updated:** October 2, 2026
 
 ## Purpose
 
@@ -13,14 +13,14 @@ These modules are not discussion guides alone. They require proofs, likelihood a
 
 ## First half modules
 
-| File | Primary chapter | Topic |
-|---|---|---|
-| [`topic-01-probability-prediction.md`](topic-01-probability-prediction.md) | Week 1 | Probability, expectation, loss, and prediction |
-| [`topic-02-models-likelihood-sufficiency.md`](topic-02-models-likelihood-sufficiency.md) | Week 2 | Models, identification, likelihood, and sufficiency |
-| [`topic-03-decision-point-estimation.md`](topic-03-decision-point-estimation.md) | Week 3 | Decision theory and point estimation |
-| [`topic-04-testing-confidence-sets.md`](topic-04-testing-confidence-sets.md) | Week 4 | Testing and confidence sets |
-| [`topic-05-convergence-limit-theorems.md`](topic-05-convergence-limit-theorems.md) | Week 5 | Convergence and limit theorems |
-| [`topic-06-delta-asymptotic-inference.md`](topic-06-delta-asymptotic-inference.md) | Week 6 | Delta method and asymptotic inference |
+| File | Primary chapter | Topic | Solutions |
+|---|---|---|---|
+| [`topic-01-probability-prediction.md`](topic-01-probability-prediction.md) | Week 1 | Probability, expectation, loss, and prediction | [Solutions](solutions/topic-01-solutions.md) |
+| [`topic-02-models-likelihood-sufficiency.md`](topic-02-models-likelihood-sufficiency.md) | Week 2 | Models, identification, likelihood, and sufficiency | [Solutions](solutions/topic-02-solutions.md) |
+| [`topic-03-decision-point-estimation.md`](topic-03-decision-point-estimation.md) | Week 3 | Decision theory and point estimation | [Solutions](solutions/topic-03-solutions.md) |
+| [`topic-04-testing-confidence-sets.md`](topic-04-testing-confidence-sets.md) | Week 4 | Testing and confidence sets | [Solutions](solutions/topic-04-solutions.md) |
+| [`topic-05-convergence-limit-theorems.md`](topic-05-convergence-limit-theorems.md) | Week 5 | Convergence and limit theorems | [Solutions](solutions/topic-05-solutions.md) |
+| [`topic-06-delta-asymptotic-inference.md`](topic-06-delta-asymptotic-inference.md) | Week 6 | Delta method and asymptotic inference | [Solutions](solutions/topic-06-solutions.md) |
 
 Modules 1--6 form the complete first half practice package. Every module has four core problems and a further bank whose size reflects the useful historical material for that topic. Recommended selections and pacing may be refined as the semester unfolds.
 
@@ -28,13 +28,13 @@ Modules 1--6 form the complete first half practice package. Every module has fou
 
 Weeks 7 and 8 are Midterm 1 and fall break, respectively, so the second half numbering begins at Week 9. Week 13 has no matching module.
 
-| File | Primary chapter | Topic |
-|---|---|---|
-| [`topic-09-m-z-estimation.md`](topic-09-m-z-estimation.md) | Week 9 | M and Z estimation |
-| [`topic-10-regression-two-step-estimation.md`](topic-10-regression-two-step-estimation.md) | Week 10 | Regression applications and two step estimation |
-| [`topic-11-kernel-nonparametric-methods.md`](topic-11-kernel-nonparametric-methods.md) | Week 11 | Kernel based nonparametric methods |
-| [`topic-12-series-nonparametric-methods.md`](topic-12-series-nonparametric-methods.md) | Week 12 | Series based nonparametric methods |
-| [`topic-14-semiparametric-methods.md`](topic-14-semiparametric-methods.md) | Week 14 | Semiparametric methods |
+| File | Primary chapter | Topic | Solutions |
+|---|---|---|---|
+| [`topic-09-m-z-estimation.md`](topic-09-m-z-estimation.md) | Week 9 | M and Z estimation | [Solutions](solutions/topic-09-solutions.md) |
+| [`topic-10-regression-two-step-estimation.md`](topic-10-regression-two-step-estimation.md) | Week 10 | Regression applications and two step estimation | [Solutions](solutions/topic-10-solutions.md) |
+| [`topic-11-kernel-nonparametric-methods.md`](topic-11-kernel-nonparametric-methods.md) | Week 11 | Kernel based nonparametric methods | [Solutions](solutions/topic-11-solutions.md) |
+| [`topic-12-series-nonparametric-methods.md`](topic-12-series-nonparametric-methods.md) | Week 12 | Series based nonparametric methods | [Solutions](solutions/topic-12-solutions.md) |
+| [`topic-14-semiparametric-methods.md`](topic-14-semiparametric-methods.md) | Week 14 | Semiparametric methods | [Solutions](solutions/topic-14-solutions.md) |
 
 ## Structure within a module
 
@@ -52,25 +52,11 @@ Problem length matters more than problem count. A problem with several derivatio
 
 ## Hints and solutions
 
-Student facing problem files do not contain solutions. The support sequence is:
+Solutions for all 11 modules are linked in the tables above and at the top of each practice module. The problem statements and solutions are kept in separate files so that students can attempt the problems before opening the corresponding solutions.
 
-1. a strategic first hint;
+Begin with a genuine attempt. If needed, seek a strategic hint and then a more explicit intermediate hint before studying the full solution. Afterward, close the solution and reconstruct the argument, checking the assumptions and explaining why each step is valid.
 
-2. a more explicit intermediate hint; and
-
-3. a separately maintained full solution.
-
-AI may be used for these ungraded practice assignments under the syllabus policy. The default study
-sequence is a genuine attempt followed by progressively stronger hints and, when deliberately
-chosen, solution study. Private instructor keys remain unreleased; permission to use AI does not
-grant access to or authorize publication of those files.
-
-The [`AGENTS.md`](AGENTS.md) file gives AI systems a staged tutoring protocol for these assignments.
-It begins with an unaided attempt and progressively stronger hints. A complete AI generated solution
-may be requested as a deliberate solution study mode after an attempt or an explicit choice, rather
-than appearing as the default first response. This does not release or imply access to an
-instructor's private solution key. The learning protocol does not grant permission to use AI on an
-assessment.
+AI may be used for these ungraded practice assignments under the syllabus policy. The [`AGENTS.md`](AGENTS.md) file gives AI systems a staged tutoring protocol: guided attempts and progressively stronger hints remain the default, while solution study is a deliberate choice. Released solutions are available for comparison and study; the learning protocol does not grant permission to use AI on an assessment.
 
 ## Use in precept
 
