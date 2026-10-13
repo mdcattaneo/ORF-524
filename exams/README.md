@@ -1,15 +1,16 @@
-# Past ORF 524 exams
+# ORF 524 exams and solutions
 
-This directory contains exams from previous offerings of ORF 524 and accompanying instructor
-solutions. They are ungraded study resources for the redesigned Fall 2026 course.
+This directory contains released exams from Fall 2026 and previous offerings of ORF 524, with accompanying instructor solutions. These previously administered exams are available for ungraded study and review.
 
-Historical exam instructions—including duration, permitted notes, submission method, point totals,
-and topic sequence—do not apply to Fall 2026. The current syllabus and instructor announcements
-govern the current course and its closed book, unaided midterms.
+Exam instructions record the rules in effect when each exam was administered. Instructions from earlier offerings—including duration, permitted notes, submission method, point totals, and topic sequence—do not govern Fall 2026. The current syllabus and instructor announcements govern upcoming assessments.
 
 - The PDF files at this directory's root are previously administered exam questions.
 - [`solutions/`](solutions/): instructor solutions for study after a genuine attempt.
 - [`AGENTS.md`](AGENTS.md): protocol for practicing with these materials and an AI assistant.
+
+## Fall 2026
+
+Midterm 1 was administered on October 12, 2026, and covers Weeks 1--6: point estimation, hypothesis testing, and asymptotic inference. The [exam](ORF524-Fall2026-Midterm1.pdf) and [solutions](solutions/ORF524-Fall2026-Midterm1-solutions.pdf) were released on October 13, 2026.
 
 ## Recommended workflow
 
@@ -87,3 +88,4 @@ before a student begins.
 | 2024 | [Final](ORF524-Fall2024-Final.pdf) | Weeks 1, 4, 9--10, and 14: prediction, conservative inference, and M-estimation with missing data | [Solution](solutions/ORF524-Fall2024-Final-solutions.pdf) |
 | 2025 | [Midterm](ORF524-Fall2025-Midterm.pdf) | Weeks 2, 4, and 9: uniformly most powerful testing and misspecified likelihood | [Solution](solutions/ORF524-Fall2025-Midterm-solutions.pdf) |
 | 2025 | [Final](ORF524-Fall2025-Final.pdf) | Weeks 1 and 9--11: linear prediction, quasi-likelihood, weighted nonlinear least squares, and uniform kernel density consistency | [Solution](solutions/ORF524-Fall2025-Final-solutions.pdf) |
+| 2026 | [Midterm 1](ORF524-Fall2026-Midterm1.pdf) | Weeks 1--6: sufficiency, likelihood and moment estimation, UMVU and risk comparisons, limit theorems, exact testing and confidence sets, and local power | [Solution](solutions/ORF524-Fall2026-Midterm1-solutions.pdf) |

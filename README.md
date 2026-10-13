@@ -5,7 +5,7 @@ This repository contains the student facing materials for ORF 524 at Princeton U
 - [Current syllabus](ORF524-Fall2026-Syllabus.pdf)
 - [Course AI guide](AGENTS.md)
 - [Practice assignment guide](assignments/README.md)
-- [Past exams and solutions](exams/README.md)
+- [Exams and solutions](exams/README.md)
 
 When viewing a Markdown chapter or assignment on GitHub, select **Preview** rather than **Code** or **Raw** so that mathematical notation, tables, and callouts are rendered.
 
@@ -19,7 +19,7 @@ When viewing a Markdown chapter or assignment on GitHub, select **Preview** rath
 | 4 | Hypothesis testing and confidence sets | [Chapter](lectures/week-04.md) | [Module](assignments/topic-04-testing-confidence-sets.md) | [Solutions](assignments/solutions/topic-04-solutions.md) |
 | 5 | Convergence and limit theorems | [Chapter](lectures/week-05.md) | [Module](assignments/topic-05-convergence-limit-theorems.md) | [Solutions](assignments/solutions/topic-05-solutions.md) |
 | 6 | Delta method and asymptotic inference | [Chapter](lectures/week-06.md) | [Module](assignments/topic-06-delta-asymptotic-inference.md) | [Solutions](assignments/solutions/topic-06-solutions.md) |
-| 7 | Midterm 1 | — | — | — |
+| 7 | [Midterm 1](exams/ORF524-Fall2026-Midterm1.pdf) | — | — | [Solutions](exams/solutions/ORF524-Fall2026-Midterm1-solutions.pdf) |
 | 8 | Fall break | — | — | — |
 | 9 | M- and Z-estimation | [Chapter](lectures/week-09.md) | [Module](assignments/topic-09-m-z-estimation.md) | [Solutions](assignments/solutions/topic-09-solutions.md) |
 | 10 | Regression applications and two step estimation | [Chapter](lectures/week-10.md) | [Module](assignments/topic-10-regression-two-step-estimation.md) | [Solutions](assignments/solutions/topic-10-solutions.md) |
