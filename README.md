@@ -7,7 +7,7 @@ This repository contains the student facing materials for ORF 524 at Princeton U
 - [Practice assignment guide](assignments/README.md)
 - [Exams and solutions](exams/README.md)
 
-**Midterm 2:** Monday, December 7, 2026, in Friend 008. Working time is 2:55 pm -- 5:35 pm (160 minutes), followed by 25 minutes to upload solutions to Gradescope, until 6:00 pm. The exam is closed book and unaided, except for one sheet of personal notes (both sides). See the [current syllabus](ORF524-Fall2026-Syllabus.pdf) for the full exam policy.
+**Midterm 2:** Monday, December 7, 2026, 2:55 pm, 160 minutes, Friend 008, in person, closed book, one sheet of personal notes (both sides). 10 extra minutes to upload solutions to Gradescope. See the [current syllabus](ORF524-Fall2026-Syllabus.pdf) for the full exam policy.
 
 When viewing a Markdown chapter or assignment on GitHub, select **Preview** rather than **Code** or **Raw** so that mathematical notation, tables, and callouts are rendered.
 

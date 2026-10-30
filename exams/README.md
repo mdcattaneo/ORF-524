@@ -12,7 +12,7 @@ Exam instructions record the rules in effect when each exam was administered. In
 
 Midterm 1 was administered on October 12, 2026, and covers Weeks 1--6: point estimation, hypothesis testing, and asymptotic inference. The [exam](ORF524-Fall2026-Midterm1.pdf) and [solutions](solutions/ORF524-Fall2026-Midterm1-solutions.pdf) were released on October 13, 2026.
 
-Midterm 2 will take place on Monday, December 7, 2026, in Friend 008. Working time is 2:55 pm -- 5:35 pm (160 minutes), followed by 25 minutes to upload solutions to Gradescope, until 6:00 pm. The exam is closed book and unaided, except for one sheet of personal notes (both sides). See the [current syllabus](../ORF524-Fall2026-Syllabus.pdf) for the full exam policy.
+**Midterm 2:** Monday, December 7, 2026, 2:55 pm, 160 minutes, Friend 008, in person, closed book, one sheet of personal notes (both sides). 10 extra minutes to upload solutions to Gradescope. See the [current syllabus](../ORF524-Fall2026-Syllabus.pdf) for the full exam policy.
 
 ## Recommended workflow
 
